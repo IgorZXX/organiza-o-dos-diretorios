@@ -16,7 +16,7 @@ import sys
 # um título para a janela 
 
 class janela2(QWidget):
-    # o comando def(definition->definição) define uma fnção
+    # o comando def(definition->definição) define uma função
     # neste caso estamos definindo a função de inicialização
     
     def __init__(self):
