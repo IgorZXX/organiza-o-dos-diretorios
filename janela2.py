@@ -5,7 +5,7 @@
 from PYytQt5.Qtwidgets import *
 #  imoportação da bibloteca  de sistema para abir e fechar a
 # janela que será construida. Ao fechar a janela, tambem
-# estaemos retirando -a da memoria 
+# estaremos retirando -a da memoria 
 import sys
 # criação da estrutura geral da nossa janela
 # a janla e sus controles estão sendo criadas de forma agrupada dentro de uma classe.
